@@ -1,17 +1,17 @@
 /*
-sample input 1
+sample 1 input 
 20 10
 41 73 89 7 10 1 59 58 84 77 77 97 58 1 86 58 26 10 86 51
 
 
-Sample output 1
+Sample 1 output 
 77 97 58 1 86 58 26 10 86 51 41 73 89 7 10 1 59 58 84 77 
 
-sample input 2
+sample 2 input 
 5 4
 1 2 3 4 5
 
-Sample output 2
+Sample 2 output 
 5 1 2 3 4
 
 */
